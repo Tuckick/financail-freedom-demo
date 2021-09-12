@@ -18,9 +18,9 @@
                     <b-nav-item href="/blog">BLOG</b-nav-item>
                 </nuxt-link>
                 <b-nav-item-dropdown text="CONTACT" right>
-                <nuxt-link to="/career">
-                    <b-dropdown-item href="/career">CAREER</b-dropdown-item>
-                </nuxt-link>
+                    <nuxt-link to="/Career">
+                        <b-nav-item href="/Career">Career</b-nav-item>
+                    </nuxt-link>
                 </b-nav-item-dropdown>
             </b-navbar-nav>
         </b-navbar>
